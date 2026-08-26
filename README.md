@@ -1,2 +1,3 @@
 # C-programming-basic-to-advance
-## here i am going to share my c basic to advance.and also some assembly which compiled by using gcc.
+## here i am going to upload my c basic to advance journey!
+## also having assembly just compiled using gcc.
