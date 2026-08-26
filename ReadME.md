@@ -1,2 +1,3 @@
-# C PROGRAMMING
-## In this repo i am going to share my C program from basics to advance.stay tuned!
+# C-programming-basic-to-advance
+## here i am going to upload my c basic to advance journey!
+## also having assembly just compiled using gcc.
